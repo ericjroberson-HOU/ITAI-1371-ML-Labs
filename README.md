@@ -3,8 +3,8 @@ Prepared for Prof Rao, Houston City College Fall 2026 Semester
 Prepared by Eric J Roberson
 
 TOOLS USED IN THIS COURSE
-Google Colab
-Jupyter Notebook
+Google Colab,
+Jupyter Notebook,
 VS Code
 
 LIST OF FILES / DATES
