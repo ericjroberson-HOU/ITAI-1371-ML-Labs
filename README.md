@@ -4,6 +4,8 @@ Prepared by Eric J Roberson
 
 TOOLS USED IN THIS COURSE
 Google Colab
+Jupyter Notebook
+VS Code
 
 LIST OF FILES / DATES
 Lab 02 - L02_FA26_ML_6171_16347 3_EricRoberson.IPYNB / 24-Aug-2026
