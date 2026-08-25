@@ -9,4 +9,5 @@ VS Code
 
 LIST OF FILES / DATES
 Lab 02 - L02_FA26_ML_6171_16347 3_EricRoberson.IPYNB / 24-Aug-2026
+
 Lab 03 - TBD
